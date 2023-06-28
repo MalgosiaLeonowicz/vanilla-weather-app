@@ -62,4 +62,4 @@ function displayTemperature(response) {
  search("New York");
 
 let form = document.querySelector("#search-form");
-form.addEventListener("sumbit", handleSubmit);
+form.addEventListener("submit", handleSubmit);
